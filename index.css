@@ -51,6 +51,9 @@ input {
 
 button {
   height: 30px;
+  cursor: pointer;
+  border: 0;
+  background-color: #C3B497;
 }
 
 .line {
