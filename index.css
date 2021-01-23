@@ -46,7 +46,8 @@ h1 {
 
 input {
   margin: 16px 0;
-  height: 30px;
+  height: 25px;
+  border: 0;
 }
 
 button {
